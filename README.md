@@ -2,34 +2,39 @@
 A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo1.png" width="75%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo1.png" width="70%">
 </p>
-
-_Initial startup screen_
+<p align="center">
+  <em> Initial startup screen </em>
+</p>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo2.png" width="75%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo2.png" width="70%">
 </p>
-
-_Sidebar in action_
+<p align="center">
+  <em> Sidebar in action </em>
+</p>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo3.png" width="75%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo3.png" width="70%">
 </p>
-
-_Lava Red theme_
+<p align="center">
+  <em> Lava Red theme </em>
+</p>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo4.png" width="75%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo4.png" width="70%">
 </p>
-
-_Ice Blue theme_
+<p align="center">
+  <em> Ice Blue theme </em>
+</p>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo5.png" width="75%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo5.png" width="70%">
 </p>
-
-_Mist Green theme_
+<p align="center">
+  <em> Mist Green theme </em>
+</p>
 
 ## Getting Started
 Download and extract the repository into a single folder. Execute the HTML file to get the web app running.
