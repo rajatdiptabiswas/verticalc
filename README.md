@@ -8,12 +8,16 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
   <em> Initial startup screen </em>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo2.png" width="70%">
 </p>
 <p align="center">
   <em> Sidebar in action </em>
 </p>
+
+<br/>
 
 <p align="center">
   <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo3.png" width="70%">
@@ -22,6 +26,8 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
   <em> Lava Red theme </em>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo4.png" width="70%">
 </p>
@@ -29,12 +35,16 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
   <em> Ice Blue theme </em>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo5.png" width="70%">
 </p>
 <p align="center">
   <em> Mist Green theme </em>
 </p>
+
+<br/>
 
 ## Getting Started
 Download and extract the repository into a single folder. Execute the HTML file to get the web app running.
