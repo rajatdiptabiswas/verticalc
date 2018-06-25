@@ -36,7 +36,7 @@ _Mist Green theme_
 
 * **Rajat Dipta Biswas** - *Initial work*
 
-See also the list of [contributors](https://github.com/rajatdiptabiswas/ethereum-dapp-vote/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/rajatdiptabiswas/verticalc/graphs/contributors) who participated in this project.
 
 ### Acknowledgments
 
