@@ -45,6 +45,9 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 </p>
 
 <br/>
+<br/>
+
+*A demo of the web app can be accessed by clicking [here](https://rajatdiptabiswas.github.io/verticalc).*
 
 ## Getting Started
 Download and extract the repository into a single folder. Execute the HTML file to get the web app running.
