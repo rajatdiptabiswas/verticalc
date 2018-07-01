@@ -10,7 +10,7 @@ body * {
 html {
 	height: 100%;
 	background: white;
-	background: radial-gradient(circle, #ccc 20%, #fff);
+	background: radial-gradient(circle, #ccc 25%, #fff);
 	background-size: cover;
 }
 
@@ -53,6 +53,13 @@ html {
     transform: translateY(2px);
 }
 
+#delete:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+#delete:active {
+    transform: translateY(2px);
+}
+
 .precision:hover {
     background-color: whitesmoke;
 }
@@ -70,7 +77,7 @@ html {
     width: 84%;
     height: inherit;
     float: left;
-    background: linear-gradient(to bottom right, #fc466b, #3F5EFB);
+    background: linear-gradient(to bottom right, #FC3366, #3A5EFF);
     margin-right: -4px;
     display: flex;
     flex-direction: column;
@@ -88,7 +95,7 @@ html {
 
 .num-button {
     font-size: 40px;
-    color: lightslategrey;
+    color: lightslategray;
     height: 50px;
     width: 50px;  
     line-height: 50px;
@@ -142,6 +149,17 @@ html {
     text-align: center;
     line-height: 30px;
     font-size: 15px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+#delete {
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
     float: right;
     padding-left: 10px;
     padding-right: 10px;
@@ -155,7 +173,8 @@ html {
 #result {
     font-size: 60px;
     text-align: right;
-    overflow: scroll;
+    overflow-x: scroll;
+    overflow-y: hidden;
     width: inherit;
     height: 70px;
     position: relative;
@@ -179,7 +198,7 @@ html {
     width: 50px;
     line-height: 50px;
     background: white;
-    color: lightslategrey;
+    color: lightslategray;
     font-size: 45px;
     border-radius: 30px;
     box-shadow: 0px 2px 5px #555;
@@ -244,6 +263,7 @@ html {
 
 #sb-setting {
     font-size: 50px;
+    color: dimgrey;
     font-weight: bolder;
 }
 
