@@ -49,16 +49,6 @@ $(document).ready(function () {
     });
 });
 
-// prevents double tap to zoom
-var doubleTouchStartTimestamp = 0;
-$(document).bind("touchstart", function(event){
-    var now = +(new Date());
-    if (doubleTouchStartTimestamp + 500 > now){
-        event.preventDefault();
-    };
-    doubleTouchStartTimestamp = now;
-});
-
 // manages scaling
 let siteWidth = 480;
 let scale = screen.width /siteWidth
