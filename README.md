@@ -2,46 +2,37 @@
 A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo1.png" width="70%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo.png" width="80%">
 </p>
 <p align="center">
-  <em> Initial startup screen </em>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo2.png" width="70%">
-</p>
-<p align="center">
-  <em> Sidebar in action </em>
+  <em> Web app in action </em>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo3.png" width="70%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo1.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo2.png" width="50%">
 </p>
 <p align="center">
-  <em> Lava Red theme </em>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo4.png" width="70%">
-</p>
-<p align="center">
-  <em> Ice Blue theme </em>
+  <em> Astral Amethyst and Radiant Ruby theme</em>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo5.png" width="70%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo3.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo4.png" width="50%">
 </p>
 <p align="center">
-  <em> Mist Green theme </em>
+  <em> Stellar Sapphire and Exotic Emerald theme</em>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo5.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo6.png" width="50%">
+</p>
+<p align="center">
+  <em> Lush Lagoon and Midnight Moonlight theme</em>
 </p>
 
 <br/>
