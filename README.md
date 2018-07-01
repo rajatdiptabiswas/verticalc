@@ -1,13 +1,18 @@
 # VertiCalc
 A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 
+*A demo of the web app can be accessed by clicking [here](https://rajatdiptabiswas.github.io/verticalc).*
+
+<br/>
+
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo.png" width="80%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo.png" width="90%">
 </p>
 <p align="center">
-  <em> Web app in action </em>
+  <em> VertiCalc in action </em>
 </p>
 
+<br/>
 <br/>
 
 <p align="center">
@@ -18,6 +23,7 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 </p>
 
 <br/>
+<br/>
 
 <p align="center">
   <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo3.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo4.png" width="50%">
@@ -26,6 +32,7 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
   <em> Stellar Sapphire and Exotic Emerald theme</em>
 </p>
 
+<br/>
 <br/>
 
 <p align="center">
@@ -37,8 +44,7 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 
 <br/>
 <br/>
-
-*A demo of the web app can be accessed by clicking [here](https://rajatdiptabiswas.github.io/verticalc).*
+<br/>
 
 ## Getting Started
 Download and extract the repository into a single folder. Execute the HTML file to get the web app running.
