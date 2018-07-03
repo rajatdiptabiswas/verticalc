@@ -51,7 +51,7 @@ $(document).ready(function () {
 
 // manages scaling
 let siteWidth = 480;
-let scale = screen.width /siteWidth
+let scale = screen.width/siteWidth
 
 document.querySelector('meta[name="viewport"]').setAttribute('content', 'width='+siteWidth+', initial-scale='+scale+'');
 
@@ -78,8 +78,10 @@ function insert(value) {
         // only allow operators
         if (value == '+' || value == '−' || value == '*' || value == '/') {
             document.getElementById("result").innerHTML += value;
+            autoScroll();
             dec = false;
             ansFound = false;
+            return;
         } else {
             return;
         }
