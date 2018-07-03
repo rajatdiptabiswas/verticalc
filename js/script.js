@@ -77,6 +77,7 @@ function insert(value) {
     if (ansFound) {
         // only allow operators
         if (value == '+' || value == '−' || value == '*' || value == '/') {
+            operator = true;
             document.getElementById("result").innerHTML += value;
             autoScroll();
             dec = false;
