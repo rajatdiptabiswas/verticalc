@@ -61,7 +61,7 @@ Download and extract the repository into a single folder. Execute the HTML file 
 
 See also the list of [contributors](https://github.com/rajatdiptabiswas/verticalc/graphs/contributors) who participated in this project.
 
-### Acknowledgments
+### Acknowledgements
 
 * [w3schools](https://www.w3schools.com)
 * [StackOverflow](https://stackoverflow.com)
