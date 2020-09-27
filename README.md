@@ -6,7 +6,7 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 <br/>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo.png" width="90%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/screenshots/demo.png" width="90%">
 </p>
 <p align="center">
   <em> VertiCalc in action </em>
@@ -16,7 +16,7 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 <br/>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo1.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo2.png" width="50%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/screenshots/demo1.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/screenshots/demo2.png" width="50%">
 </p>
 <p align="center">
   <em> Astral Amethyst and Radiant Ruby theme</em>
@@ -26,7 +26,7 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 <br/>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo3.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo4.png" width="50%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/screenshots/demo3.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/screenshots/demo4.png" width="50%">
 </p>
 <p align="center">
   <em> Stellar Sapphire and Exotic Emerald theme</em>
@@ -36,7 +36,7 @@ A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
 <br/>
 
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo5.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/demo6.png" width="50%">
+  <img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/screenshots/demo5.png" width="50%"><img src="https://github.com/rajatdiptabiswas/verticalc/blob/master/screenshots/demo6.png" width="50%">
 </p>
 <p align="center">
   <em> Lush Lagoon and Midnight Moonlight theme</em>
