@@ -1,5 +1,5 @@
 # VertiCalc
-A beautiful calculator web app made with JavaScript, JQuery, HTML and CSS.
+A beautiful calculator web app made with JavaScript, JQuery, HTML, and CSS.
 
 *A demo of the web app can be accessed by clicking [here](https://rajatdiptabiswas.github.io/verticalc).*
 
